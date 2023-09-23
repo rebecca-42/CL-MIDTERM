@@ -1,0 +1,22 @@
+.bg {
+    background-image: url('background.PNG');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -6;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+canvas {
+    float: right;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 6;
+  }
