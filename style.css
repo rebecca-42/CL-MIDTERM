@@ -15,6 +15,7 @@ html, body {
 
 canvas {
     float: right;
+    size: 80%;
     position: fixed;
     top: 0;
     right: 0;
