@@ -13,6 +13,18 @@ html, body {
     padding: 0;
   }
 
+.footertext {
+    color: rgb(154, 154, 154);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+}
+
+a:link, a:visited {
+  color: rgb(193, 193, 193); 
+}
+
 canvas {
     float: right;
     size: 80%;
